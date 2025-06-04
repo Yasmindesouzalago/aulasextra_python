@@ -1,0 +1,3 @@
+Este é um arquivo criado em python!
+Segunda linha do conteúdo
+ slk num compensa
